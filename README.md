@@ -13,6 +13,8 @@ Senior Software Engineer
 
 
 <a href="https://www.github.com/VimKanzoGH" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/VimKanzoGH?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/VimKanzo" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/VimKanzo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
+
+
                 
 ### Skills 
 
@@ -40,6 +42,8 @@ Senior Software Engineer
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
+
+
                     
 ### Socials
 
@@ -50,8 +54,11 @@ Senior Software Engineer
 <a href="https://www.linkedin.com/in/albertaninyeh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="http://www.medium.com/VimKanzo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
 
+  
   <a href="https://www.twitter.com/VimKanzo" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32"/></a></p>
+    
+    
     
  ### Badges
  
